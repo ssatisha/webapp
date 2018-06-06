@@ -1,4 +1,4 @@
-# AWS_CodeDeploy_Example_1
+# AWS_CodeDeploy_Example_one
 <br />
 Please make sure that you add the following files to your project for this to work
 <br />
